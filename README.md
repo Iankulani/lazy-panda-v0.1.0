@@ -1,5 +1,10 @@
 # lazy-panda-v0.1.0
-Lazy-Panda v0.1.0 is a cybersecurity duck chatbot designed to securely execute and manage authorized commands through Telegram, Discord, WhatsApp, and Signal.
+
+<img width="500" height="500" alt="Craxpanda" src="https://github.com/user-attachments/assets/56e01172-7b5f-4e7b-88ee-be281b226d5b" />
+
+
+
+Lazy-Panda v0.1.0 is a cybersecurity Lazy panda chatbot designed to securely execute and manage authorized commands through Telegram, Discord, WhatsApp, and Signal.
 Built for research and defensive security operations, the tool enables controlled interaction between users and monitored systems in real time. It supports automated alerts, system status checks, network monitoring tasks, and security log retrieval through encrypted messaging platforms. Lazy-Panda focuses on secure authentication, command validation, and activity logging to prevent misuse. With an interactive and user-friendly interface, the chatbot enhances remote security management, incident response coordination, and controlled automation for cybersecurity professionals and educational environments.
 
 
